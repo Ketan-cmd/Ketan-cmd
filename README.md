@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there! I'm Ketan Pathade — a 💻 Software Developer & 🤖 Machine Learning Enthusiast from 🇮🇳 India<br>🚀 I'm passionate about building smart, scalable web applications and crafting data-driven solutions to real-world problems.<br>🎓 Currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University, with a focus on full-stack development and AI.<br>🌟 "Stay curious, keep building, and never stop learning — your code can change the world."</h2>
+<h2 align="left">👋 Hi there! I'm Ketan Pathade — a 💻 Software Developer & 🤖 Machine Learning Enthusiast <br>🚀 I'm passionate about building smart, scalable web applications and crafting data-driven solutions to real-world problems.<br>🎓 Currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University, with a focus on full-stack development and AI.<br>🌟 "Stay curious, keep building, and never stop learning — your code can change the world."</h2>
 
 ###
 
